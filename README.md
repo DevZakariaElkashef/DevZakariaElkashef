@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Zakaria Elkashef
+#### I am Backend Devleroper
+![I am Backend Devleroper](https://media.licdn.com/dms/image/D4D16AQEVdiEZynep9A/profile-displaybackgroundimage-shrink_350_1400/0/1712321778252?e=1717632000&v=beta&t=sYASNL9t3VrU678koLGkjRQBlOv-w47gwJcgil0z7i0)
 
-<!--
-**DevZakariaElkashef/DevZakariaElkashef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm Zakaria Elkashef, a seasoned backend developer with a passion for crafting robust digital solutions. With over three years of hands-on experience, I've had the privilege to work on a diverse array of projects spanning e-commerce platforms, blogs, restaurant management systems, car washing services, portfolios, and agency websites.
 
-Here are some ideas to get you started:
+My expertise extends across various domains, including web application development, website creation, and API design tailored for seamless integration with mobile applications. One of my proudest achievements is the development of a PHP package available on Packagist, specifically designed to expedite project setup using the repository pattern design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Driven by an unwavering love for coding, I find immense joy in bringing ideas to life through elegant and efficient code. From conceptualization to deployment, I thrive on tackling challenges and delivering high-quality solutions that exceed expectations.
+
+Let's connect and collaborate on building the next generation of innovative digital experiences!
+
+Skills: HTML / CSS / Bootstrap / SASS / JS / jQuery / PHP / MySql / Laravel / Livewire / Inertia.js / Vue.js
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DevZakariaElkashef)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zakaria-elkashef//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100087770246550)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/dev.zakaria_elkashef//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/dev_zakaria_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+201067084439)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
