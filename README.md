@@ -12,7 +12,12 @@ Let's connect and collaborate on building the next generation of innovative digi
 
 Skills: HTML / CSS / Bootstrap / SASS / JS / jQuery / PHP / MySql / Laravel / Livewire / Inertia.js / Vue.js
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Developing a scalable backend infrastructure for a new e-commerce project aimed at revolutionizing online shopping experiences. 
+- 🌱 I’m currently learning Advanced techniques in Backend engineer 
+- 🤔 I’m looking for help with Open-source projects related to web development, particularly those focused on optimizing performance and enhancing user experience. 
+- 💬 Ask me about  Best practices in backend development, PHP programming, database optimization, and API design. I'm also happy to discuss strategies for project management and team collaboration. 
+- 📫 How to reach me: Feel free to drop me a message here on GitHub or connect with me on LinkedIn [https://www.linkedin.com/in/zakaria-elkashef]. 
+- ⚡ Fun fact: Despite being a very social person, I also cherish moments of solitude and find solace in the tranquility of nature. Whether it's a peaceful hike in the mountains or a quiet day by the lake, I relish the opportunity to disconnect from the hustle and bustle of daily life and recharge amidst the beauty of the great outdoors. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DevZakariaElkashef)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zakaria-elkashef//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100087770246550)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/dev.zakaria_elkashef//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/dev_zakaria_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+201067084439)  
