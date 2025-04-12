@@ -22,7 +22,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: your_github_username  # Replace with your username
+          github_user_name: DevZakariaElkashef  # Replace with your username
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
