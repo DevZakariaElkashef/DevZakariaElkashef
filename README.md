@@ -31,4 +31,95 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DevZakariaElkashef&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🚀 Portfolio Projects
+
+### 📱 Contracting & Management Systems
+**CasaDream (Contracting System)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://casadream.sa/)  
+- Developed backend for mobile app with 4 user roles (contractor, employee, supplier, admin)
+- Managed complex schedules, task tracking, and supply chain coordination
+
+---
+
+### 🛍️ E-commerce Platforms
+**Anak (Mobile App)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://anak-app.com/)  
+- Built comprehensive e-commerce backend with product management and inventory system  
+- Implemented cart functionality and order processing
+
+**Fakiha (Platform Migration)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://fakiha.art4muslim.net/)  
+- Migrated from CodeIgniter to Laravel with database restructuring  
+- Improved system performance through architecture optimization
+
+**Yasmine (Web App)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://yasmine.art4muslim.net/)  
+- Developed full-featured e-commerce platform with admin dashboard  
+- Integrated product management and order tracking
+
+**Khyal El Misk (Perfume Store)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://khayalalmusk.com/)  
+- Created specialized e-commerce platform for perfume sales
+
+**Queenrz (Multi-vendor)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://queenrz.com/)  
+- Developed backend for multi-vendor marketplace platform
+
+---
+
+### 🚗 Car Washing Solutions
+**Washingo (Mobile App)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://washngo.app/)  
+- Automated representative assignment based on proximity  
+- Created comprehensive admin dashboard
+
+**Hamimm (Mobile App)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://hamimm.app/)  
+- Implemented flexible assignment methods (shift-based, neighborhood, admin)  
+- Enhanced service management features
+
+**Ragwa (Web App)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://ragwa.art4muslim.net/)  
+- Full-stack development of car washing service platform
+
+**Pure (SA Mobile App)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://pure-sa.app/)  
+- Saudi-focused car washing solution with custom features
+
+---
+
+### 🌍 Specialized Systems
+**Books Store (University Platform)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://books.art4muslim.net/)  
+- Developed nationwide university bookstore platform  
+- Implemented course-specific book listings
+
+**Retions (Event Management)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://resithon.com/)  
+- Created backend for large-scale event management  
+- Supported corporate clients including Aramco
+
+**Leader for Trans (Shipping)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://admin.leaderfortrans.com/)  
+- Developed shipping system backend for Scottish company
+
+**African Aid Trust (Donations)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://africanaidtrust.org/en/home)  
+- Built charity donation platform for Tanzania/Malawi
+
+**Go Halal (UK Marketplace)**  
+[![Live](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://gohalal.ie/)  
+- Contributed to API development for multi-vendor platform
+
+---
+
+### 🎨 Frontend Projects
+**Portfolio & Web Templates**  
+- Zakaria Portfolio: [Live Demo](https://zakaria-elkashef.netlify.app/)  
+- Tea Station: [Live Demo](https://tea-station-project-one.netlify.app/)  
+- Backroads Travel: [Live Demo](https://backroads-project-two.netlify.app/)  
+- Coffee House: [Live Demo](https://cofe-house-project-three.netlify.app/)  
+- Green Tech Store: [Live Demo](https://green-teck-store-project-four.netlify.app/)  
+- Ocean Theme: [Live Demo](https://calm-sea-project-five.netlify.app/)  
+- Natours: [Live Demo](https://natours.netlify.app/)
